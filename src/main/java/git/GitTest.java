@@ -15,6 +15,7 @@ public class GitTest {
         System.out.println("hello world5");
         System.out.println("hello ketty");
         System.out.println("master commit");
+        System.out.println("hot commit");
     }
 
 }
